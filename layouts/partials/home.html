@@ -1,0 +1,39 @@
+<section class="container centered">
+  <div class="about">
+    {{ with .Site.Params.avatarurl }}
+      <div class="avatar"><img src="{{.}}" alt="avatar"></div>
+    {{ end }}
+    <h1 style="color: white;">{{ .Site.Params.author }}</h1>
+    <h2 style="color: grey;">{{ .Site.Params.info }}</h2>
+    <!-- {{ with .Site.Params.social }} -->
+    <!-- <ul> -->
+      <!-- {{ range sort .}} -->
+      <!-- <li><a href="{{ .url }}">{{ .name }}</a></li> -->
+      <!-- <li> -->
+        <!-- <a href="github.com/cooops"><i class="fab fa-github"></i></a> -->
+        <!-- <a href="{{ .url }}"><i class="fab fa-github"></i></a> -->
+      <!-- </li> -->
+      <!-- {{ end }} -->
+    <!-- </ul> -->
+    <!-- {{ end }} -->
+    <!-- <br> -->
+    <style>
+      i.fab.fa-github:hover{
+        color: #8565b6 !important;
+      }
+      i.fab.fa-twitter:hover{
+        color: #4eb0ec !important;
+      }
+      i.fab.fa-linkedin:hover{
+        color: #2f95cc !important;
+        border: none !important;
+      }
+      a.socialIcons:hover {
+        border: none !important;
+      }
+    </style>
+    <a class="socialIcons" href="https://github.com/Cooops"><i class="fab fa-github" style="font-size: 2em; margin-top: 10%; color: #6e5494;"></i></a>
+    <a class="socialIcons" href="https://twitter.com/Coopesmtg"><i class="fab fa-twitter" style="font-size: 2em; color: #1da1f2;"></i></a>
+    <a class="socialIcons" href="https://linkedin.com/in/cooper-ribb"><i class="fab fa-linkedin" style="font-size: 2em; color: #0077b5;"></i></a>
+  </div>
+</section>
