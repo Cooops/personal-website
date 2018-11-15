@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HOME</title>
-    <link>https://cooops.github.io/personal-website/posts/</link>
+    <link>cooperribb.com/posts/</link>
     <description>Recent content in Posts on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 14 Nov 2018 14:42:59 -0600</lastBuildDate>
     
-	<atom:link href="https://cooops.github.io/personal-website/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cooperribb.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning By Doing</title>
-      <link>https://cooops.github.io/personal-website/posts/learning-by-doing/</link>
+      <link>cooperribb.com/posts/learning-by-doing/</link>
       <pubDate>Wed, 14 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>https://cooops.github.io/personal-website/posts/learning-by-doing/</guid>
+      <guid>cooperribb.com/posts/learning-by-doing/</guid>
       <description>“I hear I forget. I see I remember. I do I understand.”
 Confucius
  A recurring theme I have noticed ever since delving into the world of programming is just how much noise there is out there, and more so how hard it can be to find the right signal to follow. Naturally, my sample size is not incredibly large, but there seems to be a dichotomy of sorts between those who focus on learning by building projects and those who focus on studying &amp;amp; focusing on grinding websites like HackerRank, CodeWars, LeetCode and more.</description>
@@ -23,10 +23,10 @@ Confucius
     
     <item>
       <title>Inception</title>
-      <link>https://cooops.github.io/personal-website/posts/inception/</link>
+      <link>cooperribb.com/posts/inception/</link>
       <pubDate>Tue, 13 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>https://cooops.github.io/personal-website/posts/inception/</guid>
+      <guid>cooperribb.com/posts/inception/</guid>
       <description>&amp;ldquo;The farther one travels the less one knows&amp;rdquo; - George Harrison
  Hello world :).
 The posts I upload to this website are a collection of random thoughts I&amp;rsquo;ve had, dev related or otherwise.

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HOME</title>
-    <link>https://cooops.github.io/personal-website/tags/</link>
+    <link>cooperribb.com/tags/</link>
     <description>Recent content in Tags on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 14 Nov 2018 14:42:59 -0600</lastBuildDate>
     
-	<atom:link href="https://cooops.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cooperribb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General</title>
-      <link>https://cooops.github.io/personal-website/tags/general/</link>
+      <link>cooperribb.com/tags/general/</link>
       <pubDate>Wed, 14 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>https://cooops.github.io/personal-website/tags/general/</guid>
+      <guid>cooperribb.com/tags/general/</guid>
       <description></description>
     </item>
     
