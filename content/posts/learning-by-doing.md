@@ -38,7 +38,7 @@ Following along with the above passage’s sentiment, I look at project based le
 ```
 
 By storing our values (knowledge) by their keys (projects) we can efficiently retrieve the desired results in an extremely efficient manner :D!
-Joking aside, have you every spent multiple hours or even days trying to digest a piece of information? Let’s check out this snippet from an <a href="http://www.human-memory.net/processes_encoding.html" style="color: #2f95cc;">article on how we encode our memories</a>:
+Joking aside, have you ever spent multiple hours or even days trying to digest a piece of information? Let’s check out this snippet from an <a href="http://www.human-memory.net/processes_encoding.html" style="color: #2f95cc;">article on how we encode our memories</a>:
 
 > “Encoding is a biological event beginning with perception through the senses. The process of laying down a memory begins with attention (regulated by the thalamus and the frontal lobe), in which a memorable event causes neurons to fire more frequently, making the experience more intense and increasing the likelihood that the event is encoded as a memory."
 
