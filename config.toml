@@ -1,0 +1,77 @@
+baseurl = "cooperribb.com"
+title = "HOME"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+# disqusShortname = "yourdiscussshortname"
+
+publishDir = "docs"
+
+# ---------------------------------------------------------------- #
+# ---------------------------------------------------------------- #
+
+[params]
+    author = "Cooper Ribb"
+    description = "Cooper Ribb's personal website"
+    keywords = "blog,developer,personal"
+    info = "Full Stack Developer"
+    avatarurl = "images/cat.png"
+    # footercontent = "Enter a text here."
+    # fixedbarContent = "Do you want to know me more private?→"
+    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    snsShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS = []
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/cooops"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/Coopesmtg"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/cooper-ribb"
+
+# ---------------------------------------------------------------- #
+# ---------------------------------------------------------------- #
+
+[[menu.main]]
+    name = "PROJECTS" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/projects/" #URL address
+[[menu.main]]
+    name = "POSTS"
+    weight = 20
+    url = "/posts/"
+[[menu.main]]
+    name = "ABOUT"
+    weight = 30
+    url = "/about/"
