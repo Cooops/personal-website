@@ -1,4 +1,4 @@
-baseurl = "cooperribb.com"
+baseurl = "https://cooops.github.io/personal-website/"
 title = "HOME"
 
 theme = "coder-portfolio"
