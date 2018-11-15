@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME</title>
-    <link>cooperribb.com/</link>
+    <link>https://cooops.github.io/personal-website/</link>
     <description>Recent content on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 14 Nov 2018 14:42:59 -0600</lastBuildDate>
     
-	<atom:link href="cooperribb.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cooops.github.io/personal-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning By Doing</title>
-      <link>cooperribb.com/posts/learning-by-doing/</link>
+      <link>https://cooops.github.io/personal-website/posts/learning-by-doing/</link>
       <pubDate>Wed, 14 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>cooperribb.com/posts/learning-by-doing/</guid>
+      <guid>https://cooops.github.io/personal-website/posts/learning-by-doing/</guid>
       <description>“I hear I forget. I see I remember. I do I understand.”
 Confucius
  A recurring theme I have noticed ever since delving into the world of programming is just how much noise there is out there, and more so how hard it can be to find the right signal to follow. Naturally, my sample size is not incredibly large, but there seems to be a dichotomy of sorts between those who focus on learning by building projects and those who focus on studying &amp;amp; focusing on grinding websites like HackerRank, CodeWars, LeetCode and more.</description>
@@ -23,10 +23,10 @@ Confucius
     
     <item>
       <title>About</title>
-      <link>cooperribb.com/about/</link>
+      <link>https://cooops.github.io/personal-website/about/</link>
       <pubDate>Tue, 13 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>cooperribb.com/about/</guid>
+      <guid>https://cooops.github.io/personal-website/about/</guid>
       <description>h1, body { color: white; }  Hi there 👋.
 My name is Cooper and I like to build things. I&amp;rsquo;ve lived in Austin, Texas my entire life and have a wonderful girlfriend who I&amp;rsquo;ve been with for the past 10 years. We have a motley crew of animals and I wouldn&amp;rsquo;t have it any other way.
 I&amp;rsquo;ve always worked for myself in one way or another, and most of my endeavors have involved buying &amp;amp; selling in digital marketplaces or making money off the transactional spread in some market-making capacity.</description>
@@ -34,10 +34,10 @@ I&amp;rsquo;ve always worked for myself in one way or another, and most of my en
     
     <item>
       <title>Inception</title>
-      <link>cooperribb.com/posts/inception/</link>
+      <link>https://cooops.github.io/personal-website/posts/inception/</link>
       <pubDate>Tue, 13 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>cooperribb.com/posts/inception/</guid>
+      <guid>https://cooops.github.io/personal-website/posts/inception/</guid>
       <description>&amp;ldquo;The farther one travels the less one knows&amp;rdquo; - George Harrison
  Hello world :).
 The posts I upload to this website are a collection of random thoughts I&amp;rsquo;ve had, dev related or otherwise.
@@ -47,10 +47,10 @@ Cooper</description>
     
     <item>
       <title>Profit Focused</title>
-      <link>cooperribb.com/projects/</link>
+      <link>https://cooops.github.io/personal-website/projects/</link>
       <pubDate>Tue, 13 Nov 2018 14:42:59 -0600</pubDate>
       
-      <guid>cooperribb.com/projects/</guid>
+      <guid>https://cooops.github.io/personal-website/projects/</guid>
       <description>a.abupower:hover { background: black !important; color: #ee6e73 !important; } h1 { color: white; }  OA  Built out proprietary arbitrage software used to identify profitable opportunities between hundreds of niche e-commerce sites.
  PRIVATE    BlackBorderBot  Established hundreds of market-making bots and built dynamic pricing engine based on aggregated data from competitors.
  PRIVATE      Passion Driven  ABUpower  Made website that displays aggregated data from eBay along with overarching analytics for select Magic: the Gathering Cards.</description>
